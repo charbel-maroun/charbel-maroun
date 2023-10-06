@@ -10,12 +10,12 @@
 
 # 💻 Completed Projects:
 🏋️‍♂️ Gymbud - A desktop website that lets you manage and join workouts. - [Gymbud](https://gym-bud.onrender.com/) <br><br>
-    Repo: [Repo](https://github.com/charbel-maroun/gym-bud)
+    (https://github.com/charbel-maroun/gym-bud)
     <br><br>
     <br><br>
 ♟️LiChessDex - A desktop website for displaying top LiChess.com players, allowing user searches, game saving, and showcasing live events. - [LiChessDex](https://lichessdex-y2qj.onrender.com)
 <br><br>
-Repo: [repo](https://github.com/charbel-maroun/lichessdex-deployed)
+   (https://github.com/charbel-maroun/lichessdex-deployed)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=charbel-maroun&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
