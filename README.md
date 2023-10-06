@@ -9,8 +9,13 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 # 💻 Completed Projects:
-🏋️‍♂️ Gymbud - A desktop website that lets you manage and join workouts. - ([Gymbud](https://gym-bud.onrender.com/)) 
-♟️LiChessDex - A desktop website for displaying top LiChess.com players, allowing user searches, game saving, and showcasing live events. - (([LiChessDex](https://lichessdex-y2qj.onrender.com))) 
+🏋️‍♂️ Gymbud - A desktop website that lets you manage and join workouts. - [Gymbud](https://gym-bud.onrender.com/) <br><br>
+    Repo: [Repo](https://github.com/charbel-maroun/gym-bud)
+    <br><br>
+    <br><br>
+♟️LiChessDex - A desktop website for displaying top LiChess.com players, allowing user searches, game saving, and showcasing live events. - [LiChessDex](https://lichessdex-y2qj.onrender.com)
+<br><br>
+Repo: [repo](https://github.com/charbel-maroun/lichessdex-deployed)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=charbel-maroun&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
