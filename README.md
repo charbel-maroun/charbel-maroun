@@ -1,3 +1,4 @@
+[![Banner]](https://youtu.be/EK71shB1Y2k)
 # 💫 About Me:
 🔭 I’m currently working on mobile app development.<br><br>👯 I’m looking to collaborate on anything and everything! Whether it's coding projects, user experience design, or exploring the intersections of psychology and technology, I'm open to collaboration.<br><br>🌱 I’m currently learning React Native, adding to my toolbox of skills in mobile app development.<br><br>💬 Ask me about user-centric design, coding best practices, or how psychology influences user behavior in the digital realm.<br><br>⚡ Fun fact: I come from a background in psychology, turned coder, and I believe in creating tech solutions that not only work but also connect with people on a deeper level.<br><br>Let's connect and build something amazing together! 🚀
 
